@@ -27,20 +27,20 @@ This project is used to present the skills you learn through the program to pote
 
 > #### Related Videos
 
-> - Internet & Browsers - <a href="https://www.youtube.com/watch?v=pcwNtWyzwJo" target="_blank">Video</a> |  <a href="https://drive.google.com/open?id=0B6mn1BHjNxTgYk9VaTNGVlgzSzg" target="_blank">Slides</a>
-> - Elements & Attributes - <a href="https://www.youtube.com/watch?v=2vqL3OsxRLE" target="_blank">Video</a> | <a href="https://drive.google.com/open?id=0B6mn1BHjNxTgRmpyVVNoQXM0a1k" target="_blank">Slides</a>
-> - Text Formatting & Style - <a href="https://www.youtube.com/watch?v=P5sPEr52OVs" target="_blank">Video</a> | <a href="https://drive.google.com/open?id=0B6mn1BHjNxTgUDBsRlVRUnFCQjg" target="_blank">Slides</a>
-> - Head & Style Tags - <a href="https://www.youtube.com/watch?v=Jnirh7CCMW8" target="_blank">Video</a> | <a href="https://drive.google.com/open?id=0B6mn1BHjNxTgVk96ei1wRE9pd0k" target="_blank">Slides</a>
-> - Links, Images & Text Styling - <a href="https://www.youtube.com/watch?v=w8robcf8-GY" target="_blank">Video</a> | <a href="https://drive.google.com/open?id=0BwjF2I7CBLDVRXMxdzhxRDlmRVk" target="_blank">Slides</a>
-> - Layout Structure & Design - <a href="https://www.youtube.com/watch?v=0-WRsALktzE" target="_blank">Video</a> | <a href="https://drive.google.com/open?id=0B7eOl4joefDucHBiVF9lUnRqM1E" target="_blank">Slides1 <a href="https://drive.google.com/open?id=0BwjF2I7CBLDVWFFtNnowaFp3d28" target="_blank">Slides2</a>
+> - Internet & Browsers - <a href="https://www.youtube.com/watch?v=pcwNtWyzwJo" target="_blank">Video</a> |  <a href="https://docs.google.com/presentation/d/1-Ds5wE1iv5WTBGK6D-BaCGwFWeVXSGYN8yvz8ojYnZo/pub?start=false&loop=false&delayms=3000" target="_blank">Slides</a>
+> - Elements & Attributes - <a href="https://www.youtube.com/watch?v=2vqL3OsxRLE" target="_blank">Video</a> | <a href="https://docs.google.com/presentation/d/1jHnfRkBVqiBw6GEa2mUR13fO468keu99NP_Befr8nmc/pub?start=false&loop=false&delayms=3000" target="_blank">Slides</a>
+> - Text Formatting & Style - <a href="https://www.youtube.com/watch?v=P5sPEr52OVs" target="_blank">Video</a> | <a href="https://docs.google.com/presentation/d/1_FMjUbUgJjMOroOlVG4wkkNO9tvgRDVQ7YS2dirDPEI/pub?start=false&loop=false&delayms=3000" target="_blank">Slides</a>
+> - Head & Style Tags - <a href="https://www.youtube.com/watch?v=Jnirh7CCMW8" target="_blank">Video</a> | <a href="https://docs.google.com/presentation/d/1VwhN-Kv3m-BXPIHFWIvVBH_8yGxDrMuDNGDki_NCpug/pub?start=false&loop=false&delayms=3000" target="_blank">Slides</a>
+> - Links, Images & Text Styling - <a href="https://www.youtube.com/watch?v=w8robcf8-GY" target="_blank">Video</a> | <a href="https://docs.google.com/presentation/d/1BrpssbsEhd7NeIjQAMEXKq-HSGtmDXlN3-TS2bc4J0w/pub?start=false&loop=false&delayms=3000" target="_blank">Slides</a>
+> - Layout Structure & Design - <a href="https://www.youtube.com/watch?v=0-WRsALktzE" target="_blank">Video</a> | <a href="https://docs.google.com/presentation/d/1wJU3BPRs8Bdr-frGc61ijv2Hf8QHF_CrMNCtNl8PFV0/pub?start=false&loop=false&delayms=3000" target="_blank">Slides1 <a href="https://docs.google.com/presentation/d/1AUaknmBg8MEVCxnakMf6jPnjVJxxHLfo0o5MifvilsQ/pub?start=false&loop=false&delayms=3000" target="_blank">Slides2</a>
 
 > #### Related Prototypes
 
-> - <a href="https://github.com/Learning-Fuze/prototypes/tree/master/html_fundamentals_1" target="_blank">HTML - Elements, Attributes, and comments</a>
-> - <a href="https://github.com/Learning-Fuze/prototypes/tree/master/html_fundamentals_2" target="_blank">Prototype - HTML Text Formatting/Styling</a>
-> - <a href="https://github.com/Learning-Fuze/prototypes/tree/master/html_fundamentals_3" target="_blank">HTML Head - internal/external styles & links</a>
-> - <a href="https://github.com/Learning-Fuze/prototypes/tree/master/html_fundamentals_4" target="_blank">Prototype - HTML Links, Images & Lists</a>
-> - <a href="https://github.com/Learning-Fuze/prototypes/tree/master/html_fundamentals_4" target="_blank">Prototype - HTML Layout Structure, Blocks & Design</a>
+> - <a href="http://learning-fuze.github.io/prototypes_C7/#/HTML-Fundamentals-1" target="_blank">HTML - Elements, Attributes, and comments</a>
+> - <a href="http://learning-fuze.github.io/prototypes_C7/#/HTML-Fundamentals-2" target="_blank">Prototype - HTML Text Formatting/Styling</a>
+> - <a href="http://learning-fuze.github.io/prototypes_C7/#/HTML-Fundamentals-3" target="_blank">HTML Head - internal/external styles & links</a>
+> - <a href="http://learning-fuze.github.io/prototypes_C7/#/HTML-Fundamentals-4" target="_blank">Prototype - HTML Links, Images & Lists</a>
+> - <a href="http://learning-fuze.github.io/prototypes_C7/#/HTML-Fundamentals-5" target="_blank">Prototype - HTML Layout Structure, Blocks & Design</a>
 
 ### Version 2 (v2) - <b>Coming Soon</b>
 
