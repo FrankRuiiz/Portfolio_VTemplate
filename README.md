@@ -32,22 +32,22 @@ This project is used to present the skills you learn through the program to pote
 > - Text Formatting & Style - <a href="https://www.youtube.com/watch?v=P5sPEr52OVs" target="_blank">Video</a> | <a href="https://drive.google.com/open?id=0B6mn1BHjNxTgUDBsRlVRUnFCQjg" target="_blank">Slides</a>
 > - Head & Style Tags - <a href="https://www.youtube.com/watch?v=Jnirh7CCMW8" target="_blank">Video</a> | <a href="https://drive.google.com/open?id=0B6mn1BHjNxTgVk96ei1wRE9pd0k" target="_blank">Slides</a>
 > - Links, Images & Text Styling - <a href="https://www.youtube.com/watch?v=w8robcf8-GY" target="_blank">Video</a> | <a href="https://drive.google.com/open?id=0BwjF2I7CBLDVRXMxdzhxRDlmRVk" target="_blank">Slides</a>
-> - Layout Structure & Design - <a href="https://www.youtube.com/watch?v=0-WRsALktzE" target="_blank">Video</a> | <a href="https://drive.google.com/open?id=0B7eOl4joefDucHBiVF9lUnRqM1E" target="_blank">Slides1 <a href="https://drive.google.com/open?id=0BwjF2I7CBLDVWFFtNnowaFp3d28" target="_blank">Slides2</a>
+> - Layout Structure & Design - <a href="https://www.youtube.com/watch?v=0-WRsALktzE" target="_blank">Video</a> | <a href="http://portal.learningfuze.com/node/655" target="_blank">Slides1 <a href="http://portal.learningfuze.com/node/1761" target="_blank">Slides2</a>
 
 > #### Related Prototypes
 
-> - <a href="https://github.com/Learning-Fuze/prototypes/tree/master/html_fundamentals_1" target="_blank">HTML - Elements, Attributes, and comments</a>
-> - <a href="https://github.com/Learning-Fuze/prototypes/tree/master/html_fundamentals_2" target="_blank">Prototype - HTML Text Formatting/Styling</a>
-> - <a href="https://github.com/Learning-Fuze/prototypes/tree/master/html_fundamentals_3" target="_blank">HTML Head - internal/external styles & links</a>
-> - <a href="https://github.com/Learning-Fuze/prototypes/tree/master/html_fundamentals_4" target="_blank">Prototype - HTML Links, Images & Lists</a>
-> - <a href="https://github.com/Learning-Fuze/prototypes/tree/master/html_fundamentals_4" target="_blank">Prototype - HTML Layout Structure, Blocks & Design</a>
+> - <a href="http://learning-fuze.github.io/prototypes_C7/#HTML-Fundamentals-1" target="_blank">HTML - Elements, Attributes, and comments</a>
+> - <a href="http://learning-fuze.github.io/prototypes_C7/#HTML-Fundamentals-2" target="_blank">Prototype - HTML Text Formatting/Styling</a>
+> - <a href="http://learning-fuze.github.io/prototypes_C7/#HTML-Fundamentals-3" target="_blank">HTML Head - internal/external styles & links</a>
+> - <a href="http://learning-fuze.github.io/prototypes_C7/#HTML-Fundamentals-4" target="_blank">Prototype - HTML Links, Images & Lists</a>
+> - <a href="http://learning-fuze.github.io/prototypes_C7/#HTML-Fundamentals-5" target="_blank">Prototype - HTML Layout Structure, Blocks & Design</a>
 
 ### Version 2 (v2) - <b>Coming Soon</b>
 
 ## Scopes
 
 ### v1
-> 1. Choose a layout from html_fundamentals_5 prototype - view
+> 1. Choose a layout from html_fundamentals_5 prototype - <a href="http://learning-fuze.github.io/prototypes_C7/#HTML-Fundamentals-1" target="_blank">view</a>
 > 1. Take content you have previously generated in past prototypes and do the following:
 >   1. Required Content Sections
 >       1. About Me
@@ -68,15 +68,3 @@ This project is used to present the skills you learn through the program to pote
 >       1. Create an appropriate menu in your layout’s nav/header section
 >           1. Link menu items to required content pages or sections (as defined in the layouts in the prototype referenced above)
 
-### v2
-> 1. Add A contact form into your contact me section from V1
-    - Should have the following fields:
-     - Name (text input)
-     - email (text input)
-     - Message (textarea)
-     - Submit (button of type submit)
-    - Should be responsive and display appropriately on a mobile device
-      - fields should be single columns
-    - Form should submit 
-    - URL to submit to http://learningfuze.com/echo.php 
-    - utilizing the POST method
