@@ -3,6 +3,17 @@ section {
     min-height: 600px;
 }
 
+
+/*NAVBAR */
+
+.navbar-brand > img {
+    display: inline-block;
+}
+
+#aboutMe {
+    margin-top: 200px;
+}
+
 /*h1 {*/
     /*color: #729f98;*/
     /*font-size: 3em;*/
