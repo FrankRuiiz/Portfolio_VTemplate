@@ -1,4 +1,6 @@
 /*!*GLOBAL*!*/
+
+
 /*h1 {*/
     /*color: #729f98;*/
     /*font-size: 3em;*/
@@ -83,6 +85,46 @@
 /*.contentSection h1 {*/
     /*!*padding-top: 100px;*!*/
 /*}*/
+
+/*PROJECTS */
+
+/*gallery hover effect*/
+#projects .row {
+    margin-bottom: 40px;
+}
+
+#projects figure {
+    position: relative;
+}
+#projects figure > img {
+    width: 100%;
+}
+.centered-text {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+#projects figcaption {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    transform: translateY(100%);
+    transition-duration: 1s;
+    opacity: 0;
+    background-color: rgba(255,255,255,.6);
+}
+
+#projects figure:hover figcaption {
+    opacity: 1;
+    transform: translateY(0%);
+    transition: .5s;
+}
+
+
+
 /*CONTACT*/
 .socialLinks {
     padding: 0;
