@@ -1,5 +1,7 @@
 /*!*GLOBAL*!*/
-
+section {
+    min-height: 600px;
+}
 
 /*h1 {*/
     /*color: #729f98;*/
