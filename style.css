@@ -5,13 +5,61 @@ section {
 
 
 /*NAVBAR */
-
-.navbar-brand > img {
-    display: inline-block;
+.navbar-brand {
+    font-size: 2em;
 }
 
+.navbar-brand > img {
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 100px;
+    height: 100px;
+    padding-top: 0;
+}
+
+/*HEADER */
+
+.cover {
+    color: rgb(255, 255, 255);
+    background: url("images/wood.jpg") no-repeat fixed 0px 100% / cover transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #aboutMe {
-    margin-top: 200px;
+    margin-top: 150px;
 }
 
 /*h1 {*/
