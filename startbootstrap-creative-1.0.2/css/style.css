@@ -1,10 +1,25 @@
 /*ABOUT*/
-
+.headshot {
+    padding-left: 40px;
+}
 #about .headshot img  {
     margin: 0 auto;
     border: 2em solid #FFF;
-    border-radius: 50%;
+    /*border-radius: 50%;*/
+}
 
+#about .headshot img:hover  {
+    margin: 0 auto;
+    border: 2em solid #000;
+    /*border-radius: 50%;*/
+}
+
+.tilt {
+    transition: all 0.5s ease;
+}
+
+.tilt:hover {
+    transform: rotate(-10deg);
 }
 
 #about .about-message {
@@ -18,4 +33,10 @@
 
 .skills-box svg {
     width: 20%;
+}
+
+/*CONTACT*/
+
+.form-horizontal {
+    padding: 4em 0;
 }
