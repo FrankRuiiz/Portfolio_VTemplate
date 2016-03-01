@@ -1,0 +1,21 @@
+/*ABOUT*/
+
+#about .headshot img  {
+    margin: 0 auto;
+    border: 2em solid #FFF;
+    border-radius: 50%;
+
+}
+
+#about .about-message {
+    margin: 30px 0 0 0;
+}
+
+/*SKILLS*/
+#skills > div:nth-child(2) {
+    margin-top: 2em;
+}
+
+.skills-box svg {
+    width: 20%;
+}
