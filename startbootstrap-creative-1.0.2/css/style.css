@@ -35,6 +35,37 @@
     width: 20%;
 }
 
+/*PORTFOLIO*/
+
+#portfolio .project-links {
+    margin-top: 1.5em;
+}
+
+#portfolio .project-links span a {
+    color: #FFF;
+    margin: 0 1em;
+    padding: 0.5em;
+    text-decoration: none;
+}
+
+#portfolio .project-links span a:hover {
+    text-decoration: none;
+    color: deepskyblue;
+}
+
+.grow {
+    transition: all .2s ease-in-out;
+}
+
+.grow:hover {
+    transform: scale(1.5);
+}
+
+#portfolio .project-links span a i {
+    font-size: 1.2em;
+    margin-right: .3em;
+}
+
 /*CONTACT*/
 
 .form-horizontal {
