@@ -27,12 +27,27 @@
 }
 
 /*SKILLS*/
-#skills > div:nth-child(2) {
-    margin-top: 2em;
+/*#skills > div:nth-child(2) {*/
+    /*margin-top: 2em;*/
+/*}*/
+
+/*.skills-box svg {*/
+    /*width: 20%;*/
+/*}*/
+
+#skills ul {
+    list-style: none;
+    padding: 0
 }
 
-.skills-box svg {
-    width: 20%;
+#skills ul li {
+    margin-top: .75em;
+}
+
+#skills ul li svg {
+    padding-top: .3em;
+    width: 20px;
+    height: 25px;
 }
 
 /*PORTFOLIO*/
