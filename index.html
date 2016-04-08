@@ -89,13 +89,18 @@
     <section class="bg-primary" id="about">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 headshot text-center tilt">
-                    <img class="img-responsive" src="img/FrankBlackWhite.jpg" alt="A picture of Frank Hiking">
+                <div class="col-md-12 headshot">
+                    <div class="morph pic text-center">
+                        <img class="img-responsive" src="img/FrankBlackWhite.jpg" alt="A picture of Frank Hiking">
+                    </div>
                 </div>
-                <div class="col-lg-8 about-message text-center">
+            </div>
+            <div class="row">
+                <div class="col-md-12 col-md-offset-2 about-message text-center">
                     <h2 class="section-heading">About</h2>
                     <hr class="light">
-                    <p class="text-faded">Hello and thank you for checking out my portfolio! </p>
+                    <p class="text-faded">Southern California based developer who loves learning about everything web and enjoys being a part of the growing tech community in SC.</p>
+                    <p class="text-faded">I also love having a good time with friends, family, and living an active lifestyle.</p>
                     <a href="#contact" class="btn btn-default btn-xl page-scroll">Contact</a>
                 </div>
             </div>
@@ -115,7 +120,7 @@
             <div class="row">
                 <div id="front-end" class="col-sm-6 text-center">
                     <!--front end skills-->
-                    <h3><strong>Front-End</strong></h3>
+                    <h2><strong>Front-End</strong></h2>
                     <ul>
                         <li>
                             <svg viewBox="0 0 128 128">
@@ -167,7 +172,7 @@
                 </div>
                 <!--Developer tools-->
                 <div class="col-sm-6 text-center">
-                    <h3><strong>Development Tools</strong></h3>
+                    <h2><strong>Development Tools</strong></h2>
                     <ul>
                         <li>
                             <svg viewBox="0 0 128 128">
@@ -262,7 +267,7 @@
                                 <div class="project-links grow">
                                     <!--MBoutique demo link here-->
                                     <span>
-                                        <a href="#" target="_blank"><i class="fa fa-laptop"></i>Demo</a>
+                                        <a href="http://frankruiiz.github.io/M_Boutique/" target="_blank"><i class="fa fa-laptop"></i>Demo</a>
                                     </span>
                                     <!--MBoutique github link here-->
                                     <span>
@@ -492,7 +497,6 @@
         var email = parts[6] + parts[1] + parts[0] + parts[3] + parts[4] + parts[5] + parts[2] + parts[7] + parts[8];
         document.getElementById("email").innerHTML = email;
     </script>
-
 </body>
 
 </html>

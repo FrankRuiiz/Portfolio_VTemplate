@@ -1,25 +1,33 @@
 /*ABOUT*/
-.headshot {
-    padding-left: 40px;
-}
-#about .headshot img  {
-    margin: 0 auto;
-    border: 2em solid #FFF;
-    /*border-radius: 50%;*/
+body {
+    background: url("../img/grunge_wall.png");
 }
 
-#about .headshot img:hover  {
-    margin: 0 auto;
-    border: 2em solid #000;
-    /*border-radius: 50%;*/
+.pic {
+    border: 10px solid #fff;
+    height: 300px;
+    width: 300px;
+    margin: 0 auto 20px;
+    overflow: hidden;
+    -webkit-box-shadow: 5px 5px 5px #111;
+    box-shadow: 5px 5px 5px #111;
 }
 
-.tilt {
+.morph {
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
     transition: all 0.5s ease;
 }
 
-.tilt:hover {
-    transform: rotate(-10deg);
+.morph:hover {
+    border-radius: 50%;
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
 }
 
 #about .about-message {
@@ -38,6 +46,7 @@
 }
 
 #skills ul li {
+    font-size: 1.5em;
     margin-top: .75em;
 }
 
