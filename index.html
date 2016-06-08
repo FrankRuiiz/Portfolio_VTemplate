@@ -102,9 +102,15 @@
             <div class="col-md-12 col-md-offset-2 about-message text-center">
                 <h2 class="section-heading">About</h2>
                 <hr class="light">
-                <p class="text-faded">My journey with code began with taking various courses online, and reading text-books on HTML, CSS, and JavaScript. Once I realized that I wanted to keep learning and understand the "how" and the "why" things worked the way they did; I knew that this was the right path for me. </p>
-                <p class="text-faded">As a result, I decided to commit my time and invested in the LearningFuze immersive program.  There I was able to experience the development environment and further advance my technical skills with the guidance of their lead instructors.</p>
-                <p class="text-faded">Looking ahead, I am excited for the future of the industry as well as the growth opportunity it presents for me as a developer.  </p>
+                <p class="text-faded">My journey with code began with taking various courses online, and reading
+                    text-books on HTML, CSS, and JavaScript. Once I realized that I wanted to keep learning and
+                    understand the "how" and the "why" things worked the way they did; I knew that this was the right
+                    path for me. </p>
+                <p class="text-faded">As a result, I decided to commit my time and invested in the LearningFuze
+                    immersive program. There I was able to experience the development environment and further advance my
+                    technical skills with the guidance of their lead instructors.</p>
+                <p class="text-faded">Looking ahead, I am excited for the future of the industry as well as the growth
+                    opportunity it presents for me as a developer. </p>
                 <a href="#contact" class="btn btn-default btn-xl page-scroll">Contact</a>
             </div>
         </div>
@@ -352,9 +358,9 @@
                         </div>
                         <div class="project-links grow">
                             <!--Dream Blog demo link -->
-                                <!--<span>-->
-                                    <!--<a href="#" target="_blank"><i class="fa fa-laptop"></i>Demo</a>-->
-                                <!--</span>-->
+                            <!--<span>-->
+                            <!--<a href="#" target="_blank"><i class="fa fa-laptop"></i>Demo</a>-->
+                            <!--</span>-->
                             <!--Dream Blog github link here-->
                                 <span>
                                     <a href="https://github.com/FrankRuiiz/c7_blog_project" target="_blank"><i
@@ -454,72 +460,73 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <h2 class="section-heading">Let's Get In Touch!</h2>
+                <h2 class="section-heading">Please get in touch!</h2>
                 <hr class="primary">
+                <p class="lead">I'll get back to you as soon as I can.</p>
             </div>
         </div>
 
         <div class="row links">
-
-            <div class="col-lg-4 text-center">
-                <i class="fa fa-github-alt fa-3x wow bounceIn"></i>
-                <p><a href="https://github.com/FrankRuiiz" target="_blank">FrankRuiiz</a></p>
+            <div class="col-lg-6 col-lg-offset-3">
+                <form class="form-horizontal" role="form" method="post" action="">
+                    <div class="form-group">
+                        <label for="name" class="col-sm-2 control-label">Name: </label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="name" name="name"
+                                   placeholder="Full Name" value="">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="email" class="col-sm-2 control-label">Email: </label>
+                        <div class="col-sm-10">
+                            <input type="email" class="form-control" id="email" name="email"
+                                   placeholder="example@domain.com" value="">
+                        </div>
+                    </div>
+                    <!--<div class="form-group">-->
+                        <!--<label for="subject" class="col-sm-2 control-label">Subject</label>-->
+                        <!--<div class="col-sm-10">-->
+                            <!--<input type="text" class="form-control" id="subject" name="name"-->
+                                   <!--placeholder="Subject" value="">-->
+                        <!--</div>-->
+                    <!--</div>-->
+                    <div class="form-group">
+                        <label for="message" class="col-sm-2 control-label">Message: </label>
+                        <div class="col-sm-10">
+            <textarea id="message" class="form-control" rows="4" name="message"
+                      placeholder="Your Message"></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-sm-10 col-sm-offset-2">
+                            <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-sm-10 col-sm-offset-2">
+                            <! Will be used to display an alert to the user>
+                        </div>
+                    </div>
+                </form>
             </div>
-            <div class="col-lg-4 text-center">
-                <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                <p><a id="email" href="mailto:frankDOTruizDOTlimonATgmailDOTcom"
-                      onclick="this.href=this.href.replace(/AT/,
-                    '&#64;').replace(/DOT/g, '&#46;')"
-                      target="_blank">Email</a></p>
-            </div>
-            <div class="col-lg-4 text-center">
-                <i class="fa fa-linkedin-square fa-3x wow bounceIn"></i>
-                <p><a href="https://www.linkedin.com/in/frankruiiz" target="_blank">LinkedIn</a></p>
-            </div>
-
-            <!--TODO: need to make php file to handle form messages-->
-            <!--<div class="col-lg-6 col-lg-offset-3">-->
-            <!--<form class="form-horizontal" role="form" method="post" action="">-->
-            <!--<div class="form-group">-->
-            <!--<label for="name" class="col-sm-2 control-label">Name</label>-->
-            <!--<div class="col-sm-10">-->
-            <!--<input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" value="">-->
-            <!--</div>-->
-            <!--</div>-->
-            <!--<div class="form-group">-->
-            <!--<label for="email" class="col-sm-2 control-label">Email</label>-->
-            <!--<div class="col-sm-10">-->
-            <!--<input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" value="">-->
-            <!--</div>-->
-            <!--</div>-->
-            <!--<div class="form-group">-->
-            <!--<label for="subject" class="col-sm-2 control-label">Subject</label>-->
-            <!--<div class="col-sm-10">-->
-            <!--<input type="text" class="form-control" id="subject" name="name"-->
-            <!--placeholder="Subject" value="">-->
-            <!--</div>-->
-            <!--</div>-->
-            <!--<div class="form-group">-->
-            <!--<label for="message" class="col-sm-2 control-label">Message</label>-->
-            <!--<div class="col-sm-10">-->
-            <!--<textarea id="message" class="form-control" rows="4" name="message"-->
-            <!--placeholder="Your Message"></textarea>-->
-            <!--</div>-->
-            <!--</div>-->
-            <!--<div class="form-group">-->
-            <!--<div class="col-sm-10 col-sm-offset-2">-->
-            <!--<input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary">-->
-            <!--</div>-->
-            <!--</div>-->
-            <!--<div class="form-group">-->
-            <!--<div class="col-sm-10 col-sm-offset-2">-->
-            <!--<! Will be used to display an alert to the user>-->
-            <!--</div>-->
-            <!--</div>-->
-            <!--</form>-->
-            <!--</div>-->
         </div>
     </div>
+
+    <!--<div class="col-lg-4 text-center">-->
+        <!--<i class="fa fa-github-alt fa-3x wow bounceIn"></i>-->
+        <!--<p><a href="https://github.com/FrankRuiiz" target="_blank">FrankRuiiz</a></p>-->
+    <!--</div>-->
+    <!--<div class="col-lg-4 text-center">-->
+        <!--<i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>-->
+        <!--<p><a id="email" href="mailto:frankDOTruizDOTlimonATgmailDOTcom"-->
+              <!--onclick="this.href=this.href.replace(/AT/,-->
+                    <!--'&#64;').replace(/DOT/g, '&#46;')"-->
+              <!--target="_blank">Email</a></p>-->
+    <!--</div>-->
+    <!--<div class="col-lg-4 text-center">-->
+        <!--<i class="fa fa-linkedin-square fa-3x wow bounceIn"></i>-->
+        <!--<p><a href="https://www.linkedin.com/in/frankruiiz" target="_blank">LinkedIn</a></p>-->
+    <!--</div>-->
 </section>
 
 <!-- jQuery -->
