@@ -53,6 +53,15 @@ body {
     margin: 30px 0 0 0;
 }
 
+#about .about-message p:first-child {
+    color: lightyellow;
+}
+
+#about .about-message p a {
+    color: yellow;
+    font-size: 1.2em;
+}
+
 /*SKILLS*/
 
 #skills > div:nth-child(2) {
